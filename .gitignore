@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+non_ti_seguono*.csv
+followers*.html
+following*.html
+followers*.json
+following*.json
+.DS_Store
+Thumbs.db
